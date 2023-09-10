@@ -1,4 +1,4 @@
-Aplikasi Keuangan Sederhana
+Sistem Informasi Akuntansi Standar
 ===================
 
 
